@@ -1,29 +1,31 @@
+#include <stdio.h>
 #include <iostream>
-#include <vector>
-#include <algorithm>
+#include <unordered_map>
 using namespace std;
 
 int main(void)
 {
     int N,M;
-    cin >> N;
+    unordered_map<int,int> map;
+    int result[500000];
 
-    vector<int> cards(N);
-    for(int i=0;i<N;i++)
-        cin >> cards[i];
-    sort(cards.begin(),cards.end());
+    scanf("%d",&N);
+    for(int i=0;i<N;i++){
+        int num;
+        scanf("%d", &num);
+        map[num] = 1;
+    }
 
-    cin >> M;
-    vector<int> nums(M);
+    scanf("%d",&M);
     for(int i=0;i<M;i++){
-        int temp;
-        cin >> temp;
-        int idx = lower_bound(cards.begin(),cards.end(),temp) - cards.begin();
-        nums[i] = cards[idx] == temp && idx < M;
+        int num;
+        scanf("%d", &num);
+
+        result[i] = map[num];
     }
 
     for(int i=0;i<M;i++)
-        cout << nums[i] << ' ';
-    cout << '\n';
+        printf("%d ",result[i]);
+    printf("\n");
     return 0;
 }
