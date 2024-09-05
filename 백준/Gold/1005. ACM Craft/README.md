@@ -1,13 +1,10 @@
-Bronze Silver Gold Platinum
-Ⅰ Ⅱ Ⅲ Ⅳ Ⅴ
-
-# [Gold Ⅲ] ACM Craft - 1005
+# [Gold Ⅲ] ACM Craft_2 - 1005
 
 [문제 링크](https://www.acmicpc.net/problem/1005) 
 
 ### 성능 요약
 
-메모리: 1920 KB, 시간: 204 ms
+메모리: 2840 KB, 시간: 128 ms
 
 ### 분류
 
@@ -37,7 +34,6 @@ Bronze Silver Gold Platinum
 둘째 줄에는 각 건물당 건설에 걸리는 시간 D1, D2, ..., DN이 공백을 사이로 주어진다. 셋째 줄부터 K+2줄까지 건설순서 X Y가 주어진다. (이는 건물 X를 지은 다음에 건물 Y를 짓는 것이 가능하다는 의미이다) 
 
 마지막 줄에는 백준이가 승리하기 위해 건설해야 할 건물의 번호 W가 주어진다.
-
 
 
 ### 출력 
