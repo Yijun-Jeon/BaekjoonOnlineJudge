@@ -1,4 +1,4 @@
-# [Silver Ⅱ] 한 줄로 서기 - 1138
+# [Silver Ⅱ] 한 줄로 서기_2 - 1138
 
 [문제 링크](https://www.acmicpc.net/problem/1138) 
 
