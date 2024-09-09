@@ -1,14 +1,15 @@
-# [Gold Ⅳ] 공유기 설치 - 2110
+# [Gold Ⅳ] 공유기 설치_3 - 2110
 
 [문제 링크](https://www.acmicpc.net/problem/2110) 
 
 ### 성능 요약
 
-메모리: 1896 KB, 시간: 44 ms
+메모리: 1896 KB, 시간: 40 ms
 
 ### 분류
 
-이분 탐색(binary_search), 매개 변수 탐색(parametric_search)
+* 이분 탐색(binary_search)
+* 매개 변수 탐색(parametric_search)
 
 ### 문제 설명
 
