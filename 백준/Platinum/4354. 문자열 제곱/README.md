@@ -1,10 +1,10 @@
-# [Platinum Ⅴ] 문자열 제곱 - 4354
+# [Platinum Ⅴ] 문자열 제곱_2 - 4354
 
 [문제 링크](https://www.acmicpc.net/problem/4354) 
 
 ### 성능 요약
 
-메모리: 10784 KB, 시간: 96 ms
+메모리: 6948 KB, 시간: 68 ms
 
 ### 분류
 
