@@ -1,4 +1,4 @@
-# [Gold Ⅴ] A와 B 2 - 12919
+# [Gold Ⅴ] A와 B 2_2 - 12919
 
 [문제 링크](https://www.acmicpc.net/problem/12919) 
 
