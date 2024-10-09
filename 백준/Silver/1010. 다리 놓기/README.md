@@ -1,10 +1,10 @@
-# [Silver Ⅴ] 다리 놓기 - 1010
+# [Silver Ⅴ] 다리 놓기_2 - 1010
 
 [문제 링크](https://www.acmicpc.net/problem/1010) 
 
 ### 성능 요약
 
-메모리: 1116 KB, 시간: 0 ms
+메모리: 1112 KB, 시간: 0 ms
 
 ### 분류
 
