@@ -1,10 +1,10 @@
-# [Platinum Ⅴ] 행성 터널_3 - 2887
+# [Platinum Ⅴ] 행성 터널_4 - 2887
 
 [문제 링크](https://www.acmicpc.net/problem/2887) 
 
 ### 성능 요약
 
-메모리: 13204 KB, 시간: 140 ms
+메모리: 15612 KB, 시간: 116 ms
 
 ### 분류
 
