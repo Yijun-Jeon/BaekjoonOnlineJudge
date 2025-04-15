@@ -1,10 +1,10 @@
-# [Platinum Ⅴ] 찾기 - 1786
+# [Platinum Ⅴ] 찾기_2 - 1786
 
 [문제 링크](https://www.acmicpc.net/problem/1786) 
 
 ### 성능 요약
 
-메모리: 9300 KB, 시간: 48 ms
+메모리: 9300 KB, 시간: 44 ms
 
 ### 분류
 
