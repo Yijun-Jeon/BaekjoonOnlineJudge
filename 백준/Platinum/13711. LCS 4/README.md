@@ -1,10 +1,10 @@
-# [Platinum Ⅴ] LCS 4 - 13711
+# [Platinum Ⅴ] LCS 4_2 - 13711
 
 [문제 링크](https://www.acmicpc.net/problem/13711) 
 
 ### 성능 요약
 
-메모리: 2284 KB, 시간: 32 ms
+메모리: 2676 KB, 시간: 20 ms
 
 ### 분류
 
