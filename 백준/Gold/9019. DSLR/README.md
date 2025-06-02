@@ -1,10 +1,10 @@
-# [Gold Ⅳ] DSLR_3 - 9019
+# [Gold Ⅳ] DSLR_4 - 9019
 
 [문제 링크](https://www.acmicpc.net/problem/9019) 
 
 ### 성능 요약
 
-메모리: 2288 KB, 시간: 2184 ms
+메모리: 2204 KB, 시간: 716 ms
 
 ### 분류
 
